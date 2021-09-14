@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url('../img/lewis-roberts-1JEpDhUWy20-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.linea{
+    height: 3px;
+    width: 315px;
+    background-color: white;
+}
+
+.contenido{
+    max-height: 349px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.603);
+    padding-bottom: 15px;
+    border-radius: 7px;
+}
+
+.contenido textarea{
+    height: 165px;
+}
